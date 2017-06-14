@@ -1,3 +1,3 @@
 # windows_shortcut
 
-Save Time. Use these. More to come
+Save Time. Use these. More to come very soon
