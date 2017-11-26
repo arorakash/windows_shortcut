@@ -1,0 +1,9 @@
+From Send Tab URLs (2 links)
+
+
+1. run application through cmd wildcard - Google Search
+https://www.google.co.in/search?source=hp&ei=BpoaWoSDDsfZvgSbrYnQAQ&q=run+application+through+cmd+wildcard&oq=run+application+through+cmd+wildcard&gs_l=psy-ab.3..33i21k1l2.1784.12088.0.12344.38.31.0.4.4.0.326.4077.0j5j9j3.17.0....0...1c.1.64.psy-ab..20.18.3442...0j0i13k1j0i22i30k1j33i160k1.0.LypgiB2RF8o
+
+2. windows - Start a program based on a wildcard in a Batch Script - Super User
+https://superuser.com/questions/264461/start-a-program-based-on-a-wildcard-in-a-batch-script
+

@@ -1,0 +1,12 @@
+From Send Tab URLs (3 links)
+
+
+1. run application with wildcard name cmd - Google Search
+https://www.google.co.in/search?ei=m5oaWv32GYjGvgTC2ILoAw&q=run+application+with+wildcard+name+cmd&oq=run+application+with+wildcard+name+cmd&gs_l=psy-ab.3..33i160k1.49189.58851.0.58947.42.31.0.4.4.0.425.4027.2-11j3j1.15.0....0...1c.1.64.psy-ab..23.19.4145...0j0i67k1j0i22i30k1j33i22i29i30k1.0.g7Tq1Y6NwVQ
+
+2. command line - Is there any way to get the windows cmd shell to expand wildcard paths? - Super User
+https://superuser.com/questions/460598/is-there-any-way-to-get-the-windows-cmd-shell-to-expand-wildcard-paths
+
+3. Using wildcard characters
+https://technet.microsoft.com/en-us/library/bb490639.aspx
+

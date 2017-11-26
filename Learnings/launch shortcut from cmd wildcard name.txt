@@ -1,0 +1,9 @@
+From Send Tab URLs (2 links)
+
+
+1. launch shortcut from cmd wildcard name - Google Search
+https://www.google.co.in/search?ei=YJwaWoe_FIf8vATAzYXgBQ&q=launch+shortcut+from+cmd+wildcard+name&oq=launch+shortcut+from+cmd+wildcard+name&gs_l=psy-ab.3...25077.33224.0.33327.23.21.0.1.1.0.373.2525.0j1j7j2.10.0....0...1c.1.64.psy-ab..12.10.2310...0j0i67k1j0i131k1j0i10k1j0i22i30k1j33i21k1.0.dEatDdlmPjw
+
+2. Launch a shortcut using batch file - Super User
+https://superuser.com/questions/552625/launch-a-shortcut-using-batch-file
+
